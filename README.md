@@ -34,6 +34,7 @@ USE:
 -------------
 
 Search Starwars People and Species (Php,js,ajax)
+
 To search match the name of your Character or Species (not case sensitive)
 
 ![Imgur Image](https://i.imgur.com/SPY44zy.jpg)
