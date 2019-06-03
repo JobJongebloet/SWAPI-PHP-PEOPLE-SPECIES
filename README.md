@@ -1,12 +1,14 @@
 # SWAPI-PHP-PEOPLE-SPECIES
 
 REQUIREMENTS:
+-------------
 
 XAMPP and mySQL
 Framework used: n/a
 
 
 INSTALL:
+-------------
 
 1;
 Comment/Decomment 
@@ -28,6 +30,8 @@ Open _install\starwars.SQL to build database in MySQL.
 Model.php->openDatabaseConnection, update username and password.
 
 USE:
+-------------
+
 Search Starwars People and Species (Php,js,ajax)
 To search match the name of your Character or Species (not case sensitive)
 
