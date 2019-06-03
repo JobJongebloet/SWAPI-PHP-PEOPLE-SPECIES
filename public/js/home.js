@@ -42,7 +42,7 @@
     example.innerText = ''   
     title.innerText = data.name 
     name.innerText = ''
-    averageHeight.innerText = 'Average Height: ' + data.a
+    averageHeight.innerText = 'Average Height: ' + data.average_height
     designation.innerText = 'Designation: ' + data.designation
     height.innerText = ''
     mass.innerText = ''
