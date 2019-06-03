@@ -1,18 +1,34 @@
 # SWAPI-PHP-PEOPLE-SPECIES
 
-Framework used: n/a
-INSTALL:
-NOTE; Comment/Decomment model.php :34 model.php :35 To update Database
-index.php home.php :44 home.php :55 application.php :8
+REQUIREMENTS:
 
+XAMPP and mySQL
+Framework used: n/a
+
+
+INSTALL:
+
+1;
+Comment/Decomment 
+model.php :34 
+model.php :35 
+To update Database
+
+2;
+Change require C:\xampp\htdocs to your path at;
+index.php 
+home.php :44 
+home.php :55 
+application.php :8
+
+3;
+Open _install\starwars.SQL to build database in MySQL.
+
+4;
 Model.php->openDatabaseConnection, update username and password.
 
-Change require C:\xampp\htdocs to your path.
-Open phpWebsite_install\starwars.SQL to build database.
-Website to search Starwars People and Species (Php,js,ajax)
-To search match the Name (not case sensitive)
-
-Using XAMPP and mySQL
+Search Starwars People and Species (Php,js,ajax)
+To search match the name of your Character or Species (not case sensitive)
 
 ![Imgur Image](https://i.imgur.com/SPY44zy.jpg)
 ![Imgur Image](https://imgur.com/Wp51PRn.jpg)
