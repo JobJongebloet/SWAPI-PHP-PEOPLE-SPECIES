@@ -17,6 +17,8 @@ model.php :34
 model.php :35 
 To update Database
 
+NOTE; It takes a while before all data requests are processed. So it is recommended to decomment after the Database has been updated.
+
 2;
 Change require C:\xampp\htdocs to your path at;
 index.php 
