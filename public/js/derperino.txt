@@ -1,5 +1,0 @@
-// exit(gettype(1));
-        // if(1 === "1") {
-        //     exit("no");
-        // }
-        // exit("job");
